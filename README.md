@@ -9,6 +9,6 @@
 ```
 # run 
 ```
-./myUndisRectifyMap  -ints=camera.yml image_list.xml
+./myUndisRectifyMap  -ints=camera.yml imagelist.yml
 
 ```
